@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RhymeKing</string>
+    <string name="ip_address">http://192.168.1.88:8989/RhymeKingServlet/RhymeServlet</string>
+
+    <string name="query_address">/RhymeKingServlet/RhymeServlet</string>
+    <string name="download_address">/RhymeKingServlet/RhymeServlet</string>
+
+</resources>
